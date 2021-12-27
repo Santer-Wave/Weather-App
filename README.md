@@ -10,5 +10,5 @@ Flutter project to view the weather.
 - Settings
 
 # Developer
-Kuzmenko Artem Vitalevich
-SanterWave@mail.ru
+- Kuzmenko Artem Vitalevich
+- SanterWave@mail.ru
